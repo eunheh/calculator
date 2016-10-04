@@ -17,7 +17,7 @@ var calculate = function (event) {
 
 button.addEventListener("click", calculate);
 
-//long method if I used runCalc(x + y); on line 12
+//long method if I used runCalc(x + y); on line 13
 // function runCalc (x, y) {
 //   var sum = x + y;
 //   answer.innerHTML = sum;
