@@ -13,6 +13,7 @@ var calculate = function () {
   answer.innerHTML = sum;
 };
 
+
 button.addEventListener("click", calculate);
 
 //long method if I used runCalc(x + y); on line 12
