@@ -4,7 +4,8 @@ var button = document.getElementById("calculate-button")
 var answer = document.getElementById("answer")
 
 
-var calculate = function () {
+var calculate = function (event) {
+  event.preventDefault();
   var firstNum = document.getElementById("value-one");
   var secondNum = document.getElementById("value-two");
   var x = Number(firstNum.value);
