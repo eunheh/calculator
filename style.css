@@ -1,0 +1,58 @@
+.entireBox {
+  margin-left: 100px;
+  margin-top: 80px;
+}
+.box {
+  background-color: #68B25B;
+  width: 75px;
+  height: 75px;
+  margin: 0px;
+  font-size: 25px;
+  font-weight: lighter;
+}
+.box:hover {
+  background-color: #85C07B;
+}
+#calculate-button:hover {
+  background-color: #85C07B;
+}
+.function:hover {
+  color: white;
+}
+#calculate-button {
+  background-color: #68B25B;
+  color: white;
+  width: 75px;
+  height: 75px;
+  margin: 0px;
+  border: white;
+  font-size: 25px;
+  font-weight: lighter;
+}
+#answer {
+  background-color: #68B25B;
+  color: white;
+  width: 233px;
+  height: 74px;
+  margin: 0px;
+  border: white;
+  font-size: 25px;
+  font-weight: lighter;
+}
+.number{
+  color: white;
+  border: none;
+}
+.period {
+  color: white;
+  border: none;
+}
+.equal {
+  color: white;
+  border: none;
+}
+.function {
+  background-color: #85C07B;
+  color: black;
+  border: none;
+}
